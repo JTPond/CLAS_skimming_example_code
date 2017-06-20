@@ -2,7 +2,7 @@
 import os, time
 from subprocess import Popen
 
-#    Automated Augar merging submition script
+#    Automated Auger merging submition script
 #    Takes from two different skims
 #        
 #    Author: Josh Pond

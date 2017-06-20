@@ -1,6 +1,6 @@
 #!/apps/python/bin/python
 
-#    Automated Augar skimming submition script
+#    Automated Auger skimming submition script
 #    Takes from two different skims
 #        
 #    Author: Josh Pond

@@ -18,7 +18,7 @@
 
 ## jsubmit.py
 
-    Automated Augar skimming submition script
+    Automated Auger skimming submition script
     Takes from two different skims
         
     Author: Josh Pond
@@ -26,7 +26,7 @@
 
 ## jsubmit_merge.py 
 
-    Automated Augar merging submition script
+    Automated Auger merging submition script
     Takes from two different skims
         
     Author: Josh Pond
